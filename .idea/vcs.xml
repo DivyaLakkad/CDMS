@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CDMS_Current" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/COMP4312_Group7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GrahamQuality" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SAP_Extract" vcs="Git" />
+  </component>
+</project>
